@@ -11,6 +11,7 @@ binding.pry
 
 
 
+
 def not_safe?(speed)
 	spped < 40 || speed > 60 ? true : false
 end
